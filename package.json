@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for mern stack todo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohansethi1999430/MERN-Todo-Server.git"
+  },
+  "author": "Rohan Sethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohansethi1999430/MERN-Todo-Server/issues"
+  },
+  "homepage": "https://github.com/rohansethi1999430/MERN-Todo-Server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
